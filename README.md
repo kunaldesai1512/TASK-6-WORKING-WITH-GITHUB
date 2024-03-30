@@ -1,7 +1,7 @@
 # TASK-6-WORKING-WITH-GITHUB
 Working with GitHub involves several key steps, including creating a repository, committing changes, creating branches, merging branches, collaborating with others, and managing issues. Here's an overview of these steps:
 
-Creating a Repository:
+# Creating a Repository:
 
 Go to GitHub and sign in to your account.
 Click on the "New" button to create a new repository.
